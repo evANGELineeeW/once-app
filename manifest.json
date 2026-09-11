@@ -1,0 +1,27 @@
+{
+  "name": "once — poker tracker",
+  "short_name": "once",
+  "description": "real-time poker game tracking & settlement",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#181C20",
+  "theme_color": "#10B981",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
